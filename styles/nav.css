@@ -1,15 +1,32 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif;
+}
+.top-banner{
+    background-color: rgba(29, 18, 179, 0.774);
+}
+.nav-banner{
+    background-color: rgba(29, 18, 179, 0.774);r;
+}
 nav a{
     text-decoration: none;
-    color: black;
-    margin-right: 13px;
+    color: white;
+    font-size: 1em;
+    margin-right: 15px;
     padding: 10px 20px;
     
+}
+nav i{
+    display: flex;
+    justify-content: space-between;
 }
 .Login-button{
     text-decoration: none;
     background-color: #E02C6D;
     padding: 1px 20px;
     color: white;
+    justify-content: space-between;
+    
     
     
 }
@@ -17,6 +34,8 @@ section{
    display: flex;
 }
 .kick{
+    font-size: 25px;
+    color: white;
     width: 50%;
   padding-left: 5%;
 }
@@ -58,5 +77,12 @@ section{
      background-color: #E02C6D;
      padding: 10px 40px;
      color: white;
+ }
+ .social-icon a{
+     color: darkgray;
+     justify-content: center;
+ }
+ footer p{
+     text-align: center;
  }
  
