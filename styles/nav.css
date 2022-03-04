@@ -1,0 +1,62 @@
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 13px;
+    padding: 10px 20px;
+    
+}
+.Login-button{
+    text-decoration: none;
+    background-color: #E02C6D;
+    padding: 1px 20px;
+    color: white;
+    
+    
+}
+section{
+   display: flex;
+}
+.kick{
+    width: 50%;
+  padding-left: 5%;
+}
+.kick img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #E02C6D;
+    padding: 10px 40px;
+    color: white;
+}
+.menu-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 20px;
+}
+.player{
+    border: 15px solid rgb(235, 229, 229);
+    width: 250px;
+    margin: 20px;
+    
+}
+.player img{
+    width: 100%;
+}
+section{
+    display: flex;
+ }
+ .flick{
+     width: 50%;
+   padding-left: 5%;
+ }
+ .flick img{
+     width: 100%;
+ }
+ .link-button{
+     text-decoration: none;
+     background-color: #E02C6D;
+     padding: 10px 40px;
+     color: white;
+ }
+ 
